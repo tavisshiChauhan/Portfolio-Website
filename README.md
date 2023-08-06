@@ -7,4 +7,4 @@ Techfolio is a personal portfolio website built using HTML, CSS and is hosted on
 It is a responsive webpage designed and developed as a  visually appealing portfolio webpage.
 
 
-Hosted Site: [Link]
+Hosted Site: https://tavisshichauhan.github.io/Portfolio-Website/
